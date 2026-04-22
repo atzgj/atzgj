@@ -24,15 +24,15 @@ Estudiante de Ingeniería en Sistemas Computacionales en el TESE, especialidad e
 - 🔨 Desarrollando un sistema de comandas para negocio local (React Native + Node.js + PostgreSQL)
 - 📚 Reforzando SQL avanzado, Python y fundamentos de IA
 - 🌱 Aprendiendo inglés técnico
-- 🎯 Preparando mi perfil para servicio social en startup tech
+- 🎯 Preparando mi perfil para residencias profesionales en startup tech
 
 ---
 
 ## 🏀 Más allá del código
 
-Árbitro de basketball con miras a certificación FIBA.  
-Jugadora activa.  
-Amante de la música y la danza folclórica mexicana.  
+Árbitro de basketball con miras a certificación FIBA.
+Amante de la música y la danza folclórica mexicana.
+Jugadora activa. 
 Creo que el criterio bajo presión que entrena el deporte hace mejores ingenieras.
 
 ---
