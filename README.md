@@ -1,7 +1,7 @@
 # Hola, soy Atzimba 👋🏽
 
 Estudiante de Ingeniería en Sistemas Computacionales en el TESE, especialidad en Bases de Datos.  
-Árbitro de basketball en camino a nivel FIBA | Jugadora activa | Apasionada de la tecnología y la IA.
+Árbitro de basketball en capacitación constante | Atleta activa | Apasionada de la tecnología y el deporte.
 
 ---
 
@@ -21,16 +21,17 @@ Estudiante de Ingeniería en Sistemas Computacionales en el TESE, especialidad e
 
 ## 🚀 Actualmente
 
-- 🔨 Desarrollando un sistema de comandas para negocio local (React Native + Node.js + PostgreSQL)
-- 📚 Reforzando SQL avanzado, Python y fundamentos de IA
+- 🔨 Desarrollando un sistema de comandas para negocio local
+- 🔨 Desarrollando un mapa 
+- 📚 Reforzando SQL avanzado, Python/Java y fundamentos de IA
 - 🌱 Aprendiendo inglés técnico
-- 🎯 Preparando mi perfil para residencias profesionales en startup tech
+- 🎯 Preparando mi perfil para residencias profesionales
 
 ---
 
 ## 🏀 Más allá del código
 
-Árbitro de basketball con miras a certificación FIBA.
+Árbitro de basketball con miras a certificación ABE y FIBA.
 Amante de la música y la danza folclórica mexicana.
 Jugadora activa. 
 Creo que el criterio bajo presión que entrena el deporte hace mejores ingenieras.
