@@ -19,6 +19,9 @@ Estudiante de Ingeniería en Sistemas Computacionales en el TESE, especialidad e
 
 ---
 
+##Insignias
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d9ece77-df14-46c9-9c1e-58cb00c43451" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🚀 Actualmente
 
 - 🔨 Desarrollando un sistema de comandas para negocio local
