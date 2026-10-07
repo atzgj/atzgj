@@ -21,10 +21,10 @@ Estudiante de Ingeniería en Sistemas Computacionales en el TESE, especialidad e
 
 ## Insignias
 <a href="https://www.credly.com/badges/e05731d6-94bb-4970-a931-ab406eb7ed65/public_url">
-  <img src="https://github.com/user-attachments/assets/cebfb11a-df52-4df6-ad4e-8f9bc7df4692" width="110">
+  <img src="https://github.com/user-attachments/assets/cebfb11a-df52-4df6-ad4e-8f9bc7df4692" width="200">
 </a>
 <a href="https://www.credly.com/badges/e05731d6-94bb-4970-a931-ab406eb7ed65/public_url">
-  <img src="https://github.com/user-attachments/assets/d287aa7e-2c6a-4902-80bc-4bab753600bc" width="110">
+  <img src="https://github.com/user-attachments/assets/d287aa7e-2c6a-4902-80bc-4bab753600bc" width="200">
 </a>
 
 
